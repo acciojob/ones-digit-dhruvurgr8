@@ -1,5 +1,6 @@
 function onesDigit(n) {
-  // your code here
+  let num = String(n);
+	return num[num.length-1]
 }
 
 // Do not change the code below
